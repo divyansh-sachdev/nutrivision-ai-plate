@@ -1,0 +1,1 @@
+- **2025-05-02 11:55:46**: feat: add visual status LED pulse code for diagnostic mode
