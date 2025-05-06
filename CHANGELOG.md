@@ -5,3 +5,4 @@
 - **2025-05-04 18:16:43**: docs: add circuit wiring pinout and power consumption profile
 - **2025-05-04 19:50:19**: refactor: simplify state machine transition logic
 - **2025-05-06 19:34:37**: refactor: simplify state machine transition logic
+- **2025-05-06 21:22:30**: perf: tune I2C bus frequency to 400kHz for sensor polling
