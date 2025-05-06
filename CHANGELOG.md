@@ -4,3 +4,4 @@
 - **2025-05-03 11:37:31**: test: validate thermal stability over continuous 6-hour test run
 - **2025-05-04 18:16:43**: docs: add circuit wiring pinout and power consumption profile
 - **2025-05-04 19:50:19**: refactor: simplify state machine transition logic
+- **2025-05-06 19:34:37**: refactor: simplify state machine transition logic
