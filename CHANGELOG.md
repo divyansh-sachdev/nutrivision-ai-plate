@@ -9,3 +9,4 @@
 - **2025-05-10 17:21:31**: docs: add circuit wiring pinout and power consumption profile
 - **2025-05-11 15:51:36**: refactor: modularize signal processing functions into separate header
 - **2025-05-11 20:17:15**: refactor: modularize signal processing functions into separate header
+- **2025-05-14 16:47:47**: refactor: modularize signal processing functions into separate header
