@@ -11,3 +11,4 @@
 - **2025-05-11 20:17:15**: refactor: modularize signal processing functions into separate header
 - **2025-05-14 16:47:47**: refactor: modularize signal processing functions into separate header
 - **2025-05-15 19:22:29**: docs: document serial protocol packet structure and error codes
+- **2025-05-16 15:25:17**: feat: implement low-power light sleep mode during idle intervals
