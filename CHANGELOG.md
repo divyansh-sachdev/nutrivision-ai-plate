@@ -14,3 +14,4 @@
 - **2025-05-16 15:25:17**: feat: implement low-power light sleep mode during idle intervals
 - **2025-05-20 20:43:28**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-05-21 10:08:45**: refactor: simplify state machine transition logic
+- **2025-05-21 20:13:27**: refactor: optimize ADC sampling window and reduce jitter
