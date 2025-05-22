@@ -15,3 +15,4 @@
 - **2025-05-20 20:43:28**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-05-21 10:08:45**: refactor: simplify state machine transition logic
 - **2025-05-21 20:13:27**: refactor: optimize ADC sampling window and reduce jitter
+- **2025-05-22 11:05:46**: feat: add visual status LED pulse code for diagnostic mode
