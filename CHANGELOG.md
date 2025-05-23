@@ -16,3 +16,4 @@
 - **2025-05-21 10:08:45**: refactor: simplify state machine transition logic
 - **2025-05-21 20:13:27**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-05-22 11:05:46**: feat: add visual status LED pulse code for diagnostic mode
+- **2025-05-23 10:21:40**: test: verify timer interrupt latency under heavy load
