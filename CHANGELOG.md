@@ -18,3 +18,4 @@
 - **2025-05-22 11:05:46**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-05-23 10:21:40**: test: verify timer interrupt latency under heavy load
 - **2025-05-24 18:36:14**: docs: add circuit wiring pinout and power consumption profile
+- **2025-05-27 11:40:36**: feat: implement low-power light sleep mode during idle intervals
