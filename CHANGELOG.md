@@ -19,3 +19,4 @@
 - **2025-05-23 10:21:40**: test: verify timer interrupt latency under heavy load
 - **2025-05-24 18:36:14**: docs: add circuit wiring pinout and power consumption profile
 - **2025-05-27 11:40:36**: feat: implement low-power light sleep mode during idle intervals
+- **2025-05-28 18:33:38**: test: benchmark inference execution speed on ESP32 dual-core
