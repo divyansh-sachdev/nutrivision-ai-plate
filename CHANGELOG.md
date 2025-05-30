@@ -21,3 +21,4 @@
 - **2025-05-27 11:40:36**: feat: implement low-power light sleep mode during idle intervals
 - **2025-05-28 18:33:38**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-05-29 15:45:23**: refactor: simplify state machine transition logic
+- **2025-05-30 20:09:20**: docs: update README setup instructions and dependencies
