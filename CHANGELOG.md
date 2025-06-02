@@ -22,3 +22,4 @@
 - **2025-05-28 18:33:38**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-05-29 15:45:23**: refactor: simplify state machine transition logic
 - **2025-05-30 20:09:20**: docs: update README setup instructions and dependencies
+- **2025-06-02 11:48:24**: feat: add EEPROM configuration persistence for user settings
