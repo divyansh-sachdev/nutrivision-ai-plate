@@ -25,3 +25,4 @@
 - **2025-06-02 11:48:24**: feat: add EEPROM configuration persistence for user settings
 - **2025-06-04 16:14:14**: feat: implement moving average filter for noise suppression
 - **2025-06-06 18:22:42**: perf: tune FreeRTOS task priority to eliminate frame drops
+- **2025-06-06 20:36:38**: perf: tune I2C bus frequency to 400kHz for sensor polling
