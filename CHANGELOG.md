@@ -26,3 +26,4 @@
 - **2025-06-04 16:14:14**: feat: implement moving average filter for noise suppression
 - **2025-06-06 18:22:42**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-06-06 20:36:38**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2025-06-07 18:52:30**: feat: add dynamic threshold adaptation for environmental drift
