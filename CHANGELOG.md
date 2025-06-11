@@ -28,3 +28,4 @@
 - **2025-06-06 20:36:38**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-06-07 18:52:30**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-06-11 19:38:38**: refactor: clean up debug logs and serial telemetry
+- **2025-06-11 21:07:21**: feat: add visual status LED pulse code for diagnostic mode
