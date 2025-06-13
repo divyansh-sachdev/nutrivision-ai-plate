@@ -29,3 +29,4 @@
 - **2025-06-07 18:52:30**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-06-11 19:38:38**: refactor: clean up debug logs and serial telemetry
 - **2025-06-11 21:07:21**: feat: add visual status LED pulse code for diagnostic mode
+- **2025-06-13 11:35:32**: feat: add EEPROM configuration persistence for user settings
