@@ -31,3 +31,4 @@
 - **2025-06-11 21:07:21**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-06-13 11:35:32**: feat: add EEPROM configuration persistence for user settings
 - **2025-06-16 11:25:26**: feat: implement low-power light sleep mode during idle intervals
+- **2025-06-16 19:23:35**: perf: optimize memory footprint by reducing ring buffer depth
