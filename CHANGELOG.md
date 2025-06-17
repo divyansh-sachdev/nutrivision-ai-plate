@@ -32,3 +32,4 @@
 - **2025-06-13 11:35:32**: feat: add EEPROM configuration persistence for user settings
 - **2025-06-16 11:25:26**: feat: implement low-power light sleep mode during idle intervals
 - **2025-06-16 19:23:35**: perf: optimize memory footprint by reducing ring buffer depth
+- **2025-06-17 19:31:13**: perf: tune I2C bus frequency to 400kHz for sensor polling
