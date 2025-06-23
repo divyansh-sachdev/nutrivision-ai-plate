@@ -38,3 +38,4 @@
 - **2025-06-19 19:12:11**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-06-20 20:31:15**: docs: document serial protocol packet structure and error codes
 - **2025-06-21 19:12:19**: feat: add EEPROM configuration persistence for user settings
+- **2025-06-23 16:31:40**: test: validate thermal stability over continuous 6-hour test run
