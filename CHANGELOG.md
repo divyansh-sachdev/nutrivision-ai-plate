@@ -40,3 +40,4 @@
 - **2025-06-21 19:12:19**: feat: add EEPROM configuration persistence for user settings
 - **2025-06-23 16:31:40**: test: validate thermal stability over continuous 6-hour test run
 - **2025-06-24 17:55:42**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2025-06-24 20:52:18**: test: verify timer interrupt latency under heavy load
