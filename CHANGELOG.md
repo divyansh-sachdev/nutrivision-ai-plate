@@ -43,3 +43,4 @@
 - **2025-06-24 20:52:18**: test: verify timer interrupt latency under heavy load
 - **2025-06-27 19:14:38**: docs: update README setup instructions and dependencies
 - **2025-06-27 20:35:32**: refactor: optimize ADC sampling window and reduce jitter
+- **2025-06-28 15:49:25**: refactor: clean up debug logs and serial telemetry
