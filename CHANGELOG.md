@@ -44,3 +44,4 @@
 - **2025-06-27 19:14:38**: docs: update README setup instructions and dependencies
 - **2025-06-27 20:35:32**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-06-28 15:49:25**: refactor: clean up debug logs and serial telemetry
+- **2025-06-28 21:29:24**: feat: add EEPROM configuration persistence for user settings
