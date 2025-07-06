@@ -46,3 +46,4 @@
 - **2025-06-28 15:49:25**: refactor: clean up debug logs and serial telemetry
 - **2025-06-28 21:29:24**: feat: add EEPROM configuration persistence for user settings
 - **2025-07-01 14:37:47**: fix: handle edge case timeout in sensor initialization loop
+- **2025-07-06 21:09:25**: feat: add visual status LED pulse code for diagnostic mode
