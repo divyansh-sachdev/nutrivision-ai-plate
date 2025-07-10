@@ -48,3 +48,4 @@
 - **2025-07-01 14:37:47**: fix: handle edge case timeout in sensor initialization loop
 - **2025-07-06 21:09:25**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-07-07 18:11:50**: refactor: modularize signal processing functions into separate header
+- **2025-07-10 16:27:33**: docs: add circuit wiring pinout and power consumption profile
