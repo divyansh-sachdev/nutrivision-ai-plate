@@ -51,3 +51,4 @@
 - **2025-07-10 16:27:33**: docs: add circuit wiring pinout and power consumption profile
 - **2025-07-15 16:34:26**: fix: resolve floating point conversion precision issue
 - **2025-07-16 18:49:26**: test: verify timer interrupt latency under heavy load
+- **2025-07-17 15:29:40**: feat: add EEPROM configuration persistence for user settings
