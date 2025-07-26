@@ -53,3 +53,4 @@
 - **2025-07-16 18:49:26**: test: verify timer interrupt latency under heavy load
 - **2025-07-17 15:29:40**: feat: add EEPROM configuration persistence for user settings
 - **2025-07-23 15:43:32**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-07-26 20:28:43**: feat: add EEPROM configuration persistence for user settings
