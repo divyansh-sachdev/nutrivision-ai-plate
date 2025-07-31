@@ -56,3 +56,4 @@
 - **2025-07-26 20:28:43**: feat: add EEPROM configuration persistence for user settings
 - **2025-07-28 16:35:28**: refactor: modularize signal processing functions into separate header
 - **2025-07-29 11:34:14**: test: validate thermal stability over continuous 6-hour test run
+- **2025-07-31 18:05:26**: docs: document serial protocol packet structure and error codes
